@@ -1,5 +1,6 @@
 package  Day_003_Locators;
-import CommonUtil.*;
+import CommonUtil.*
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;

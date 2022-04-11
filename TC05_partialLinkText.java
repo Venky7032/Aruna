@@ -6,6 +6,9 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.testng.annotations.*;
 
+
+
+
 public class TC05_partialLinkText
 {
 	static WebDriver driver;
